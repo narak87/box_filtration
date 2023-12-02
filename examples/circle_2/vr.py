@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pixel_cover as pc
 import gudhi as gd
-import vr_filteration_tool as vft
+import vr_filtration_tool as vft
 import pandas as pd
 import os
 import shutil
