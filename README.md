@@ -1,4 +1,4 @@
-# Box-Filteration #
+# Box-Filtration #
 Topolgical data analysis is used for complex data analysis. In general, we grow balls to understand topology of point cloud. We came up with a new technique where 
 instead of growing balls we grow hypercubes with directional control over its expansion. 
 # Installation #
